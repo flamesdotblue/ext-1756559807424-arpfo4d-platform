@@ -1,0 +1,32 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='1200' viewBox='0 0 1200 1200'>
+  <defs>
+    <linearGradient id='g' x1='0' x2='1' y1='0' y2='1'>
+      <stop offset='0%' stop-color='#ecfdf5'/>
+      <stop offset='100%' stop-color='#d1fae5'/>
+    </linearGradient>
+  </defs>
+  <rect width='1200' height='1200' fill='url(#g)'/>
+  <circle cx='180' cy='200' r='140' fill='#a7f3d0' opacity='0.6'/>
+  <circle cx='1060' cy='980' r='180' fill='#99f6e4' opacity='0.5'/>
+
+  <g transform='translate(100,160)'>
+    <rect x='0' y='0' width='1000' height='880' rx='32' fill='#ffffff' stroke='#10b981' stroke-width='6'/>
+    <g transform='translate(80,80)'>
+      <rect x='0' y='0' width='160' height='160' rx='24' fill='#10b981'/>
+      <text x='80' y='105' font-family='Inter, system-ui, -apple-system, Segoe UI, Roboto' font-size='88' text-anchor='middle' fill='#ffffff' font-weight='800'>F</text>
+    </g>
+
+    <text x='80' y='330' font-family='Inter, system-ui, -apple-system, Segoe UI, Roboto' font-size='64' fill='#065f46' font-weight='800'>Reclaim Fridays</text>
+    <text x='80' y='410' font-family='Inter, system-ui, -apple-system, Segoe UI, Roboto' font-size='44' fill='#065f46' font-weight='700'>Unplug one day a week. Recharge the world.</text>
+
+    <g transform='translate(80,500)'>
+      <text font-family='Inter, system-ui, -apple-system, Segoe UI, Roboto' font-size='32' fill='#0f766e'>This Friday I’m logging off to make room for focus, people, and planet.</text>
+      <text y='48' font-family='Inter, system-ui, -apple-system, Segoe UI, Roboto' font-size='28' fill='#115e59'>Join me: #ReclaimFridays</text>
+    </g>
+
+    <g transform='translate(80,680)'>
+      <rect x='0' y='0' width='320' height='72' rx='36' fill='#10b981'/>
+      <text x='160' y='48' font-family='Inter, system-ui, -apple-system, Segoe UI, Roboto' font-size='28' text-anchor='middle' fill='#ffffff' font-weight='700'>Pledge your Friday</text>
+    </g>
+  </g>
+</svg>
